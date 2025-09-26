@@ -2,7 +2,7 @@
 
 A lightweight PHP-based RESTful API app that allows you to do simple CRUD operations on Iran's cities.
 
-> 🟡 This project marked my first interaction with APIs and how they work.
+> 🟡 This project marked my first interaction with APIs and how they work. REBUILT OLD PROJECT
 
 ## 🔧 Setup Instructions
 
