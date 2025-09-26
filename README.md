@@ -17,11 +17,11 @@ A lightweight PHP-based RESTful API app that allows you to do simple CRUD operat
    ```
    
 3. **Configure environment**
-   - Copy `.env.example` to `.env`
-   - Set your DB credentials
+- Copy `.env.example` to `.env`
+- Set your DB credentials
 
 4. **Import the database**
-   - Use `iran.sql` to create tables
+- Use `iran.sql` to create tables
 
 5. **Run the server**
    ```bash
